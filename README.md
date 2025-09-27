@@ -98,23 +98,23 @@ These insights suggest that retention efforts must address competitive pressure,
 
 ## 1. Strengthen Competitive Positioning
    
-     Counter competitor offers with more attractive bundles, device financing options, and targeted win-back campaigns.
+  Counter competitor offers with more attractive bundles, device financing options, and targeted win-back campaigns.
 
 ## 2. Improve Customer Experience
 
-    Train and support frontline staff to address service-attitude issues.
+   Train and support frontline staff to address service-attitude issues.
     Monitor CSAT/NPS scores and resolve escalations quickly.
 
 ## 3. Age-Specific Retention Strategies
   
-    For older customers (79–88), provide dedicated support, personalized plans, or loyalty perks to address higher churn risk.
+  For older customers (79–88), provide dedicated support, personalized plans, or loyalty perks to address higher churn risk.
 
  ## 4.  Enhance Value for Light and Mid-Range Users
 
-    Offer affordable entry-level bundles, loyalty rewards, or incentives to reduce churn among low-usage customers.
+ Offer affordable entry-level bundles, loyalty rewards, or incentives to reduce churn among low-usage customers.
 
 ## 5. Geographic Targeting
-    Deploy localized offers and service improvements in high-churn states like California, Indiana, and New Hampshire.
+   Deploy localized offers and service improvements in high-churn states like California, Indiana, and New Hampshire.
     Maintain and reinforce strong customer relationships in low-churn states.
 
 
