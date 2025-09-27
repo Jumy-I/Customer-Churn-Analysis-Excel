@@ -18,7 +18,9 @@ The dashboard provides an executive-level summary of customer churn, combining k
 <img width="432" height="74" alt="Image" src="https://github.com/user-attachments/assets/63c4800f-c4aa-4dc1-87c5-df76a0adad1c" />
 
 Total Customers: 6,687
+
 Churned Customers: 1,796
+
 Churn Rate: 26.9%
 
 Over a quarter of customers are leaving.
